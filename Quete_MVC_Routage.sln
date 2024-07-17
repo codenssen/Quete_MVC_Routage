@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quete_MVC_Routage", "Quete_MVC_Routage\Quete_MVC_Routage.csproj", "{3AF60233-BEE9-4489-AF0D-B7B30BF9CBCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AF60233-BEE9-4489-AF0D-B7B30BF9CBCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF60233-BEE9-4489-AF0D-B7B30BF9CBCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF60233-BEE9-4489-AF0D-B7B30BF9CBCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF60233-BEE9-4489-AF0D-B7B30BF9CBCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4980D605-6F7E-48F7-8CDB-093344AAC222}
+	EndGlobalSection
+EndGlobal
