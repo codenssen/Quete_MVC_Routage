@@ -4,18 +4,30 @@ namespace Quete_MVC_Routage.Controllers
 {
     public class HelloController : Controller
     {
-        [Route("Say")]
+        
         public IActionResult SayHello()
         {
             return Content("Hello !");
         }
 
-        [Route("Yell")]
+        [Route("Say")]
+        public IActionResult SayHelloAttribut()
+        {
+            return Content("Hello !");
+        }
+
+        
         public IActionResult YellHello()
         {
             return Content("HELLO !");
         }
 
-     
+        [Route("Yell")]
+        public IActionResult YellHelloAttribut()
+        {
+            return Content("HELLO !");
+        }
+
+
     }
 }
